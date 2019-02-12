@@ -4,7 +4,7 @@ import StreamSocket.StreamSocket;
 
 import java.io.IOException;
 
-public class Babbler implements Runnable {
+public class Babbler {
     private ClientIO ci;
     private StreamSocket ss;
 

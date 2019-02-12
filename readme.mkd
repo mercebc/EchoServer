@@ -19,7 +19,7 @@ And then start the server in port 5000
 
 ## To run Netcat
 
-Start netcat and connect to localhost on port 9090
+Start netcat and connect to localhost in port 5000 
 
 `netcat localhost 5000`
 
